@@ -1,0 +1,5 @@
+DAN:
+  METHOD: "CDAN"
+
+DATASET:
+  SOURCE: "svhn"
